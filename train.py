@@ -17,7 +17,7 @@ parser.add_argument('--patch_size', dest='patch_size', type=int, default=96,
 parser.add_argument('--lr', dest='lr', type=float, default=0.001,
                     help='initial learning rate')
 parser.add_argument('--data_dir', dest='data_dir',
-                    default='/disk1/aashishsharma/Datasets/RetinexNet_Dataset/',
+                    default='/home/dell/ymd/RetinexNet_PyTorch/',
                     help='directory storing the training data')
 parser.add_argument('--ckpt_dir', dest='ckpt_dir', default='./ckpts/',
                     help='directory for checkpoints')
