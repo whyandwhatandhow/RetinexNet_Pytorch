@@ -40,5 +40,3 @@ Image: 2 (`./data/test/low/2.bmp`)
 
 Image: 3 (`./data/test/low/3.bmp`)
 ![3](images/3_merged.jpg)  
-
-Please feel free to report any improvements or bugs present in the code.
